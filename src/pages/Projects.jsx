@@ -39,7 +39,8 @@ function Projects() {
                 <div>
                   <h1 className="text-5xl font-bold">Github App</h1>
                   <p className="py-6">This React app uses a RET API to retreive information over profiles on Github</p>
-                  <button className="btn btn-primary">Live Demo</button>
+                  <a href="https://jjg-github-finder.netlify.app/" target='blank'
+                   rel='noreferrer'><button className="btn btn-primary">Live Demo</button></a>
                 </div>
               </div>
             </div>
