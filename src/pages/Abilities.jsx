@@ -66,7 +66,7 @@ function Abilities() {
                   </div>
                   <div className='w-/13 flex flex-col items-center mt-6'>
                     <FaUniversalAccess className='inline pr text-7xl' />
-                    <p className='items-center pt-1'>ACCESIBILITY</p>
+                    <p className='items-center pt-1'>ACCESSIBILITY</p>
                   </div>
                 </div>
               </div>

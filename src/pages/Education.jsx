@@ -87,7 +87,7 @@ function Education() {
               JAVASCRIPT ES6
             </h2>
             <p className='text-black pt-4'>Javascript and the DOM</p>
-            <p className='h-32 text-black justify-start'>Web Accesibility</p>
+            <p className='h-32 text-black justify-start'>Web Accessibility</p>
             <div className="card-actions justify-end">
               <div className="badge badge-primary">
                 <a target='blank'
